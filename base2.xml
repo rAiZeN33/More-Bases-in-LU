@@ -12,3 +12,10 @@
 	<vehicle id="119" x="1289.6" y="-626.8" z="12.2" angle="0.0" colour1="-1" colour2="-1"/>
 	<vehicle id="119" x="1305.3" y="-641.2" z="12.2" angle="0.0" colour1="-1" colour2="-1"/>
 </Spawns>
+
+echo "# More-maps-for-Attack-Defend-server-in-LU" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin https://github.com/LequidPlay/More-maps-for-Attack-Defend-server-in-LU.git
+git push -u origin master
